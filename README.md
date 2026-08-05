@@ -34,6 +34,7 @@ Open-Motion has two major mechanical assemblies:
 
 ```
 openmotion-mechanical/
+├── 300-000245.zip           # Strap Frame, Motion (~1 MB)
 ├── 700-00013-Rev3.zip       # Mechanical design package (~14 MB)
 ├── 700-00029-Rev2.zip       # Mechanical design package (~29 KB)
 ├── 700-00031-Rev3.zip       # Mechanical design package (~6 MB)
