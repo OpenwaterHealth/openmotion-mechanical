@@ -1,5 +1,9 @@
 # openmotion-mechanical
 
+## Disclaimer
+
+CAUTION - Investigational device. Limited by Federal (or United States) law to investigational use. The system described here has not been evaluated by the FDA and is not designed for the treatment or diagnosis of any disease. It is provided AS-IS, with no warranties. User assumes all liability and responsibility for identifying and mitigating risks associated with using this software.
+
 Mechanical engineering CAD files for the [Open-Motion](https://github.com/OpenwaterHealth) near-infrared optical blood flow imaging platform — an open-source system for non-invasive cerebral blood flow measurement.
 
 This repository contains the mechanical design files for every physical enclosure and structural component in the Open-Motion hardware stack.
