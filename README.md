@@ -42,7 +42,7 @@ openmotion-mechanical/
 ├── 700-00013-Rev3.zip       # Mechanical design package (~14 MB)
 ├── 700-00029-Rev2.zip       # Mechanical design package (~29 KB)
 ├── 700-00031-Rev3.zip       # Mechanical design package (~6 MB)
-├── LICENSE                  # AGPL-3.0
+├── LICENSE                  # CERN-OHL-S-2.0
 └── README.md
 ```
 
@@ -101,7 +101,7 @@ For mechanical contributions specifically:
 
 ## License
 
-This project is licensed under the [GNU Affero General Public License v3.0](LICENSE) (AGPL-3.0).
+This project is licensed under the [CERN Open Hardware Licence Version 2 – Strongly Reciprocal](LICENSE) (CERN-OHL-S-2.0).
 
 ## About Openwater
 
